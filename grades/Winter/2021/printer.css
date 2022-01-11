@@ -1,0 +1,8 @@
+/* the following applies only to when a page is printed */
+
+@media print { 
+
+.noprint, .printHide { display:none !important; }
+.printSmaller { font-size:smaller !important; }
+
+} /* @media print end */
