@@ -1,0 +1,71 @@
+All
+<div class="select">
+  <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Dropdown link
+  </a>
+
+  <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+    <a class="dropdown-item" href="773ml.github.io/uw/grades/Autumn/2021/index.html">Autumn 2021</a>
+    <a class="dropdown-item" href="773ml.github.io/uw/grades/Spring/2021/index.html">Spring 2021</a>
+    <a class="dropdown-item" href="773ml.github.io/uw/grades/Winter/2021/index.html">Winter 2021</a>
+    <a class="dropdown-item" href="773ml.github.io/uw/grades/Autumn/2020/index.html">Autumn 2020</a>
+  </div>
+</div>
+
+A20
+<div class="select">
+  <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Dropdown link
+  </a>
+
+  <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+    <a class="dropdown-item" href="773ml.github.io/uw/grades/Autumn/2021/index.html">Autumn 2021</a>
+    <a class="dropdown-item" href="773ml.github.io/uw/grades/Spring/2021/index.html">Spring 2021</a>
+    <a class="dropdown-item" href="773ml.github.io/uw/grades/Winter/2021/index.html">Winter 2021</a>
+    <a class="dropdown-item" href="773ml.github.io/uw/grades/all/index.html">All Quarters</a>
+  </div>
+</div>
+
+A21
+<div class="select">
+  <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Dropdown link
+  </a>
+
+  <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+    <a class="dropdown-item" href="773ml.github.io/uw/grades/Spring/2021/index.html">Spring 2021</a>
+    <a class="dropdown-item" href="773ml.github.io/uw/grades/Winter/2021/index.html">Winter 2021</a>
+    <a class="dropdown-item" href="773ml.github.io/uw/grades/Autumn/2020/index.html">Autumn 2020</a>
+    <a class="dropdown-item" href="773ml.github.io/uw/grades/all/index.html">All Quarters</a>
+  </div>
+</div>
+
+S21
+<div class="select">
+  <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Dropdown link
+  </a>
+
+  <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+    <a class="dropdown-item" href="773ml.github.io/uw/grades/Autumn/2021/index.html">Autumn 2021</a>
+    <a class="dropdown-item" href="773ml.github.io/uw/grades/Winter/2021/index.html">Winter 2021</a>
+    <a class="dropdown-item" href="773ml.github.io/uw/grades/Autumn/2020/index.html">Autumn 2020</a>
+    <a class="dropdown-item" href="773ml.github.io/uw/grades/all/index.html">All Quarters</a>
+  </div>
+</div>
+
+W21
+<div class="select">
+  <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Dropdown link
+  </a>
+
+  <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+    <a class="dropdown-item" href="773ml.github.io/uw/grades/Autumn/2020/index.html">Autumn 2021</a>
+    <a class="dropdown-item" href="773ml.github.io/uw/grades/Spring/2021/index.html">Spring 2021</a>
+    <a class="dropdown-item" href="773ml.github.io/uw/grades/Autumn/2020/index.html">Autumn 2020</a>
+    <a class="dropdown-item" href="773ml.github.io/uw/grades/all/index.html">All Quarters</a>
+  </div>
+</div>
+
+
